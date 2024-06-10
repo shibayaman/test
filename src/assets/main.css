@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+button {
+  padding: 8px;
+  margin: 8px;
+  border: 2px coral solid;
+  background-color: transparent;
+}
